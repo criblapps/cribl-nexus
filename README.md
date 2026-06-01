@@ -14,17 +14,3 @@ A [Cribl App Platform](https://docs.cribl.io/stream/app-platform/) app that give
 2. In Cribl Stream or Edge, go to **Settings → App Management → Install App** and upload the `.tgz`.
 3. Open the app from the app launcher — no additional configuration required.
 
-## Development
-
-```bash
-npm install
-npm run dev        # start dev server
-npm run build      # production build
-npm run package    # build + pack as installable .tgz
-```
-
-The app uses `CRIBL_API_URL` (injected by the platform) for all API calls. When running locally outside of Cribl, set that variable or mock the endpoints.
-
-## Tech stack
-
-React 19 · TypeScript · Vite · React Router
