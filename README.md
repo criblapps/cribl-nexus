@@ -10,6 +10,6 @@ A [Cribl App Platform](https://docs.cribl.io/stream/app-platform/) app that give
 
 ## Installing
 
-1. In Cribl Stream go "App Platform" to **App Platform → Add App → Import from Git** and paste this url: https://github.com/criblapps/cribl-nexus.
+1. In Cribl Stream go to **App Platform → Add App → Import from Git** and paste this url: https://github.com/criblapps/cribl-nexus.
 2. Open the app from the app launcher — no additional configuration required.
 
