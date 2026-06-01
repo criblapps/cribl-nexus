@@ -10,7 +10,6 @@ A [Cribl App Platform](https://docs.cribl.io/stream/app-platform/) app that give
 
 ## Installing
 
-1. Download the latest `cribl-nexus-x.x.x.tgz` from [Releases](../../releases).
-2. In Cribl Stream or Edge, go to **Settings → App Management → Install App** and upload the `.tgz`.
-3. Open the app from the app launcher — no additional configuration required.
+1. In Cribl Stream go "App Platform" to **App Platform → Add App → Import from Git** and paste this url: https://github.com/criblapps/cribl-nexus.
+2. Open the app from the app launcher — no additional configuration required.
 
